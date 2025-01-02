@@ -13,7 +13,7 @@ I’m a master student in the Computational Sciences program at **FU Berlin**, a
 Here, you can find some of the recent **projects** that I enjoyed or/and that challenged me:  
 
 - 🎮 [**so_long**](https://github.com/owrmille/so-long) – My first 2D graphical game  
-- 🌐 **cub3d** – A graphical program involving raycasting  
+- 🌐 [**cub3d**](https://github.com/owrmille/cub_3d) – A graphical program involving raycasting  
 - 🖥 **minishell** – A mini version of a bash-like shell  
 - 🧠 [**philosophers**](https://github.com/owrmille/philosophers) – A problem involving threads, concurrency, data races, and deadlocks  
 
