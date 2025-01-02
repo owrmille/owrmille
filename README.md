@@ -11,14 +11,20 @@ I’m a master student in the Computational Sciences program at **FU Berlin**, a
 </p>    
 -->
 
+
+
 ---  
 
-Here, you can find some of the recent **projects** that I enjoyed or/and that challenged me:  
+Here, you can find some of the **recent projects** that I enjoyed or/and that challenged me (C language):  
 
 - 🎮 [**so_long**](https://github.com/owrmille/so-long) – My first 2D graphical game  
 - 🌐 [**cub3d**](https://github.com/owrmille/cub_3d) – A graphical program involving raycasting  
 - 🖥 [**minishell**](https://github.com/owrmille/minishell) – A mini version of a bash-like shell  
 - 🧠 [**philosophers**](https://github.com/owrmille/philosophers) – A problem involving threads, concurrency, data races, and deadlocks  
+
+
+🌱 Currently learning Java.
+
 
 💡 **I’m addicted to exploring new and challenging myself!** 💡  
 
@@ -47,7 +53,7 @@ Here, you can find some of the recent **projects** that I enjoyed or/and that ch
 
 ---
 📫 How to reach me: 
-- **telegram**: @owrmille
+- **telegram**: [@owrmille](https://t.me/owrmille)
 - **email**: iasemin.topchu@gmail.com
 
 --- 
