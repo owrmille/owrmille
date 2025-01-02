@@ -1,16 +1,16 @@
 ![](https://github.com/owrmille/owrmille/blob/main/header.png)
 
-I’m a master student in the Computational Sciences program at FU Berlin, and I also study at 42 Berlin, a project-based school with no teachers or traditional classes.  
+I’m a master student in the Computational Sciences program at **FU Berlin**, and I also study at **42 Berlin**, a project-based school with no teachers or traditional classes.  
 
 ---
-Here, you can find some of the projects that I enjoyed or/and that challenged me:  
+Here, you can find some of the recent **projects** that I enjoyed or/and that challenged me:  
 
-- 🎮 [so_long](https://github.com/owrmille/so-long) – My first 2D graphical game  
-- 🌐 cub3d – A graphical program involving raycasting  
-- 🖥 minishell – A mini version of a bash-like shell  
-- 🧠 [philosophers](https://github.com/owrmille/philosophers) – A problem involving threads, concurrency, data races, and deadlocks  
+- 🎮 [**so_long**](https://github.com/owrmille/so-long) – My first 2D graphical game  
+- 🌐 **cub3d** – A graphical program involving raycasting  
+- 🖥 **minishell** – A mini version of a bash-like shell  
+- 🧠 [**philosophers**](https://github.com/owrmille/philosophers) – A problem involving threads, concurrency, data races, and deadlocks  
 
-💡 I’m addicted to exploring new and challenging myself! 💡  
+💡 **I’m addicted to exploring new and challenging myself!** 💡  
 
 ---
 
@@ -29,9 +29,14 @@ Here, you can find some of the projects that I enjoyed or/and that challenged me
 
 ---
 📫 How to reach me: 
-- telegram: @owrmille
-- gmail: iasemin.topchu@gmail.com
+- **telegram**: @owrmille
+- **email**: iasemin.topchu@gmail.com
 
+--- 
+🌍 Languages I speak: 
+- **English**
+- **Russian**
+  
 <!--
 **owrmille/owrmille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
