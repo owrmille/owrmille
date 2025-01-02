@@ -16,10 +16,16 @@ Here, you can find some of the recent **projects** that I enjoyed or/and that ch
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=owrmille&theme=microsoft" alt="Description of the image" />
-</p>
+</p>  
+
 <p align="center">
-  <img src="https://github.com/owrmille/github-stats-transparent/blob/output/generated/overview.svg" alt="Description of the image" />
+  <img src="https://github.com/owrmille/owrmille/blob/main/languages.png" alt="Languages" width="300">
+  <img src="https://github.com/owrmille/github-stats-transparent/blob/output/generated/overview.svg" alt="Description of the image" width="400">
 </p>
+
+
+
+
 
 
 <!--
