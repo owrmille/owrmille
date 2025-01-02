@@ -2,7 +2,14 @@
 
 I’m a master student in the Computational Sciences program at **FU Berlin**, and I also study at **42 Berlin**, a project-based school with no teachers or traditional classes.  
 
----
+---  
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=owrmille&theme=microsoft" alt="Description of the image">
+</p>    
+
+---  
+
 Here, you can find some of the recent **projects** that I enjoyed or/and that challenged me:  
 
 - 🎮 [**so_long**](https://github.com/owrmille/so-long) – My first 2D graphical game  
@@ -18,8 +25,9 @@ Here, you can find some of the recent **projects** that I enjoyed or/and that ch
    <img src="https://github.com/owrmille/owrmille/blob/main/languages.png" alt="Languages" width="300">
 </p>  
 
-<img src="https://streak-stats.demolab.com?user=owrmille&theme=microsoft" alt="Description of the image"> <img src="https://github.com/owrmille/github-stats-transparent/blob/output/generated/overview.svg" alt="Description of the image">
-
+<p align="center">
+<img src="https://github.com/owrmille/github-stats-transparent/blob/output/generated/overview.svg" alt="Description of the image">
+</p>
 
 
 
