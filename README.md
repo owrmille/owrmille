@@ -13,6 +13,21 @@ Here, you can find some of the projects that I enjoyed or/and that challenged me
 💡 I’m addicted to exploring new and challenging myself! 💡  
 
 ---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=owrmille&theme=microsoft" alt="Description of the image" />
+</p>
+<p align="center">
+  <img src="https://github.com/owrmille/github-stats-transparent/blob/output/generated/overview.svg" alt="Description of the image" />
+</p>
+
+
+<!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=owrmille&theme=microsoft)](https://git.io/streak-stats)
+![](https://github.com/owrmille/github-stats-transparent/blob/output/generated/overview.svg)
+-->
+
+---
 📫 How to reach me: 
 - telegram: @owrmille
 - gmail: iasemin.topchu@gmail.com
