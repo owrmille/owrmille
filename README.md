@@ -23,7 +23,7 @@ Here, you can find some of the **recent projects** that I enjoyed or/and that ch
 - 🧠 [**philosophers**](https://github.com/owrmille/philosophers) – A problem involving threads, concurrency, data races, and deadlocks  
 
 
-🌱 Currently learning Java.
+🌱 Recently, I’ve realized I really enjoy working on group projects! Feel free to reach out if you're up for teaming up on something. Right now, I’m learning Kotlin from the very beginning and trying to make a German learning app. 
 
 
 💡 **I’m addicted to exploring new and challenging myself!** 💡  
