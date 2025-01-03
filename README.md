@@ -17,10 +17,10 @@ I’m a master student in the Computational Sciences program at **FU Berlin**, a
 
 Here, you can find some of the **recent projects** that I enjoyed or/and that challenged me (C language):  
 
-- 🎮 [**so_long**](https://github.com/owrmille/so-long) – My first 2D graphical game  
-- 🌐 [**cub3d**](https://github.com/owrmille/cub_3d) – A graphical program involving raycasting  
-- 🖥 [**minishell**](https://github.com/owrmille/minishell) – A mini version of a bash-like shell  
-- 🧠 [**philosophers**](https://github.com/owrmille/philosophers) – A problem involving threads, concurrency, data races, and deadlocks  
+- 🎮 [**so_long**](https://github.com/owrmille/so-long) – My first 2D graphical game (that was just simple and pure excitement) 
+- 🌐 [**cub3d**](https://github.com/owrmille/cub_3d) – A graphical program involving raycasting (how can maths be so awesome?)  
+- 🖥 [**minishell**](https://github.com/owrmille/minishell) – A mini version of a bash-like shell (tested me a lot, but I loved it more than anything!)  
+- 🧠 [**philosophers**](https://github.com/owrmille/philosophers) – A problem involving threads, concurrency, data races, and deadlocks (broke my brain. I survived, ha!)  
 
 
 🌱 Recently, I’ve realized I really enjoy working on group projects! Feel free to reach out if you're up for teaming up on something. Right now, I’m learning Kotlin from the very beginning and trying to make a German learning app. 
